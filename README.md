@@ -1,2 +1,2 @@
 # DevBox
-An application that provides plenty of utilities for coding, coded for coders. It has the necessary for fast calculations and operations, like Bitwise operations, Conversions, IP Operations and many more functions!
+Born from the ashes of [DevUtilities](https://github.com/VikSn0w/DevUtilities), DevBox has the same mission of its predecessor but with SwiftUI and collaboration with other members of the community. So DevBox is an application that provides plenty of utilities for coding, coded for coders. It has the necessary for fast calculations and operations, like Bitwise operations, Conversions, IP Operations and many more functions!
