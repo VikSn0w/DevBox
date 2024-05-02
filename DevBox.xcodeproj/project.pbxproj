@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B36450C2BE3C21B00F68A5B /* NumberBaseConversionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B36450B2BE3C21B00F68A5B /* NumberBaseConversionModel.swift */; };
 		5B6341A32BE176B900FAF1B3 /* DevBoxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B6341A22BE176B900FAF1B3 /* DevBoxApp.swift */; };
 		5B6341A52BE176B900FAF1B3 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B6341A42BE176B900FAF1B3 /* MainView.swift */; };
 		5B6341A72BE176BA00FAF1B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B6341A62BE176BA00FAF1B3 /* Assets.xcassets */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5B36450B2BE3C21B00F68A5B /* NumberBaseConversionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberBaseConversionModel.swift; sourceTree = "<group>"; };
 		5B63419F2BE176B900FAF1B3 /* DevBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DevBox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B6341A22BE176B900FAF1B3 /* DevBoxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevBoxApp.swift; sourceTree = "<group>"; };
 		5B6341A42BE176B900FAF1B3 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 				5B6341D42BE2A50C00FAF1B3 /* BitwiseOperationsView.swift */,
 				5B6341D62BE2B33100FAF1B3 /* IPCalculatorView.swift */,
 				5B6341D82BE2B36700FAF1B3 /* AlgorithmOperationsView.swift */,
+				5B36450B2BE3C21B00F68A5B /* NumberBaseConversionModel.swift */,
 			);
 			path = CodingView;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 				5B6341A52BE176B900FAF1B3 /* MainView.swift in Sources */,
 				5B6341A32BE176B900FAF1B3 /* DevBoxApp.swift in Sources */,
 				5B6341DB2BE2B37800FAF1B3 /* ColorView.swift in Sources */,
+				5B36450C2BE3C21B00F68A5B /* NumberBaseConversionModel.swift in Sources */,
 				5B6341CF2BE241A000FAF1B3 /* CodingView.swift in Sources */,
 				5B6341D12BE2572700FAF1B3 /* HomeView.swift in Sources */,
 				5B6341D32BE2A4A900FAF1B3 /* NumberBaseConversionView.swift in Sources */,

@@ -12,6 +12,8 @@ struct AlgorithmOperationsView: View {
         NavigationStack {
             Text("AlgorithmOperationsView").foregroundStyle(.white)
                 .navigationTitle("Algorithm Operations").navigationBarTitleDisplayMode(.inline)
+        }.onTapGesture {
+            self.hideKeyboard()
         }
     }
 }
