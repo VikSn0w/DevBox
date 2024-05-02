@@ -13,3 +13,9 @@ At the moment I'm focusing on redesigning ad replicating the pages of the Coding
 ## What has been done so far
 ### Commit [d642ed2](https://github.com/VikSn0w/DevBox/commit/d642ed22d145102c32e053c8d34709c0c97bcc22)
 The base UI has been laid down and defined, with improvements in code readability
+
+## Screenshots
+Example of my new redesigned interface
+
+<img src="https://github.com/VikSn0w/DevBox/assets/36678730/437034df-dfdd-4131-9281-5cfa6a243cf4" alt="drawing" width="200"/>
+
