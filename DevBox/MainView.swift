@@ -22,7 +22,7 @@ struct MainView: View {
                 .tabItem {
                     Label("Coding", systemImage: "desktopcomputer")
                 }.foregroundColor(.black)
-        }.accentColor(.black)
+        }.accentColor(Color("accent_tab_bar"))
     }
 }
 

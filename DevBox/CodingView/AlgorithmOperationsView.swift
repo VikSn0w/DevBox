@@ -9,7 +9,10 @@ import SwiftUI
 
 struct AlgorithmOperationsView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationStack {
+            Text("AlgorithmOperationsView").foregroundStyle(.white)
+                .navigationTitle("Algorithm Operations").navigationBarTitleDisplayMode(.inline)
+        }
     }
 }
 
